@@ -1,4 +1,4 @@
-# Swift Programming Tutorial (unofficial) [![NicoDevItalia]
+# Swift Programming Tutorial by Nicolò Curioni
 
 > A curated list of all Apple the Swift Programming Language e-book by Apple.
 
