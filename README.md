@@ -9,7 +9,7 @@ The following repo, is strcutured in the following way:
 ## Branches
 
 - [Main](#main)
-- [The Basics](#the-basics)
+- [The Basics](https://github.com/nicodevitalia/Swift-Programming/blob/main/The%20Basics.playground/Contents.swift)
 - [Basic Operators](#basic-operators)
 - [Strings and Characters](#strings-and-characters)
 - [Collection Types](#collection-types)
